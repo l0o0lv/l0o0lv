@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fl0o0lv&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# ✨ 
+# ✨  
 SSAFY 13기  
 계명대학교 컴퓨터공학과  
 
@@ -26,22 +26,35 @@ SSAFY 13기
 
 ## ⚙ 프로젝트 경험  
 
-- `모두의 투표 - DO표` | [DoVote-MSA](https://github.com/l0o0lv/DoVote-MSA)  
+| 프로젝트 | 설명 |  링크
+|---|---|---|  
+| `모두의 투표 - DO표` | 일상 속 말하기 애매했던 고민들을 투표로 물어볼 수 있는 플랫폼 | [DoVote-MSA](https://github.com/l0o0lv/DoVote-MSA) |  
 
 ## 🎉 수상경력  
-- 벤처스타트업 아카데미 장관상  
-- 경북대학교 계명대학교 공동 해커톤 금상  
+
+| 수상내역 | 비고 |  
+|---|---|  
+| 벤처스타트업 아카데미 | 장관상 |  
+| 경북대학교 & 계명대학교 공동 해커톤 | 금상 |  
 
 ## 🍀 자격증  
-- 정보처리기사  
-- TOPCIT 3수준  
-- SQLD  
-- 컴퓨터활용능력 1급  
-- 한국사능력검정시험 1급  
 
-## 논문  
+| 자격증 | 비고 |  
+|---|---|  
+| 정보처리기사 | - |  
+| TOPCIT | 3수준 |  
+| SQLD | - |  
+| 컴퓨터활용능력 | 1급 |  
+| 한국사능력검정시험 | 1급 |  
+
+## 📚 논문  
+
+| 논문명 | 내용 |  
+|---|---|  
+| 업데이트 예정 | - |  
 
 ## 📫 기술스택  
+
 | 분야 | 기술 |
 |---|---|
 | `Back` | Kotlin(Spring), Java(Spring), Redis, MySQL, MariaDB |
