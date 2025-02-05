@@ -4,20 +4,14 @@
 SSAFY 13기  
 계명대학교 컴퓨터공학과  
 
-## 📫 Email  
-
-- ehdrms001030@naver.com  
-
-## 🖋 Blog 
-
-- [https://l0o0lv.tistory.com/](https://l0o0lv.tistory.com/)  
 ## 👋 이력  
 
 - **SSAFY 13기** (2025.01~)  
-- **계명대학교** (2019.03~2025.02) : 컴퓨터공학과 졸업  
+- **계명대학교** (2019.03~2025.02) : 컴퓨터공학과 졸업
+- **계명대학교 K-STAR** (2024.12) : E영역 인증
 - **멋쟁이사자처럼 대학 12기** (2024.01~2024.12) : 12기 운영진  
 - **멋쟁이사자처럼 대학 11기** (2023.01~2023.12) : 11기 신입부원  
-- **계명대학교 공과대학 학생회** (2022.01~2022.12) : 체육부장  
+- **계명대학교 공과대학 학생회** (2022.01~2022.12) : 체육부장
 
 ## ⚙ 프로젝트 경험  
 
@@ -46,3 +40,14 @@ SSAFY 13기
 - **Back** : Kotlin(Spring), Java(Spring), Redis, MySQL, MariaDB  
 - **DevOps** : AWS, Docker, Nginx, Jenkins  
 - **Front** : HTML, CSS, JS, Android  
+
+## 📫 Email  
+
+- ehdrms001030@naver.com  
+
+## 🖋 Blog 
+
+- [https://l0o0lv.tistory.com/](https://l0o0lv.tistory.com/)  
+
+
+
