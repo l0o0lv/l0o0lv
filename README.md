@@ -37,7 +37,8 @@
 
 ## 📚 논문  
 
-- 업데이트 예정  
+- 2023년도 한국통신학회 추계종합학술대회 - 블록체인을 연계한 전자투표 시스템의 연구 동향
+  - <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11667720">DBpia</a>   
 
 ## 📫 기술스택  
 
