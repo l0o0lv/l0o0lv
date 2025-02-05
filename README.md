@@ -15,8 +15,12 @@
 
 ## ⚙ 프로젝트 경험  
 
+- **서퍼톤 - 나랑 도전할래?**
+- **경북대 계명대 공동 해커톤 - 리뷰할래?**
+- **멋쟁이사자처럼 12기 해커톤 - **
 - **모두의 투표 - DO표**  
-  → [DoVote-MSA](https://github.com/l0o0lv/DoVote-MSA)  
+  → [DoVote-MSA](https://github.com/l0o0lv/DoVote-MSA)
+- **멋쟁이사자처럼 11기 해커톤 - 소상공인을 위한 디지털 마케팅 플랫폼** 
 
 ## 🎉 수상경력  
 
