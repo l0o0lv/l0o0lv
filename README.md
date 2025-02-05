@@ -11,7 +11,7 @@ SSAFY 13기
 | 구분 | 정보 |
 |---|---|
 | `Email` | ehdrms001030@naver.com |
-| `TechBlog` | [https://l0o0lv.tistory.com/](https://l0o0lv.tistory.com/) |
+| `Blog` | [https://l0o0lv.tistory.com/](https://l0o0lv.tistory.com/) |
 | `About ME` | 업데이트 예정 |
 
 ## 👋 연혁  
