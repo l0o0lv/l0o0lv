@@ -4,13 +4,14 @@
 SSAFY 13기  
 계명대학교 컴퓨터공학과  
 
-## 📫 Contact  
+## 📫 Email  
 
 - **Email** : ehdrms001030@naver.com  
-- **TechBlog** : [https://l0o0lv.tistory.com/](https://l0o0lv.tistory.com/)  
-- **About ME** : 업데이트 예정  
 
-## 👋 연혁  
+## 🖋 Blog 
+
+- **TechBlog** : [https://l0o0lv.tistory.com/](https://l0o0lv.tistory.com/)  
+## 👋 이력  
 
 - **SSAFY 13기** (2025.01~)  
 - **계명대학교** (2019.03~2025.02) : 컴퓨터공학과 졸업  
