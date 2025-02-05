@@ -6,11 +6,11 @@ SSAFY 13기
 
 ## 📫 Email  
 
-- **Email** : ehdrms001030@naver.com  
+- ehdrms001030@naver.com  
 
 ## 🖋 Blog 
 
-- **TechBlog** : [https://l0o0lv.tistory.com/](https://l0o0lv.tistory.com/)  
+- [https://l0o0lv.tistory.com/](https://l0o0lv.tistory.com/)  
 ## 👋 이력  
 
 - **SSAFY 13기** (2025.01~)  
