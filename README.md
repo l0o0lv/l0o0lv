@@ -41,7 +41,7 @@
 
 ## 📚 논문  
 
-- **대한전자공학회 2024년도 하계학술대회** - 대규모 언어 모델(LLM)의 종류별 프로그래밍 성능 비교
+- **대한전자공학회 2024년도 하계학술대회** - 대규모 언어 모델(LLM)의 종류별 프로그래밍 성능 비교(우수논문상)
   - <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891073">DBpia</a>
 - **한국정보기술학회 2024년도 하계종합학술대회** - 투표 기반 커뮤니티 어플리케이션 - Do표
   - <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825681">DBpia</a>
