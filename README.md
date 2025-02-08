@@ -29,7 +29,7 @@
 - **멋쟁이사자처럼 12기 해커톤**
 - **캡스톤디자인 : 모두의 투표** - DO표  
   → 주변인들에게 물어보기 애매했던 질문들을 투표를 통해 소통하는 커뮤니티  
-  → [DoVote-MSA](https://github.com/l0o0lv/DoVote-MSA)
+  → [Repo Link](https://github.com/l0o0lv/DoVote-MSA)
 - **멋쟁이사자처럼 11기 해커톤** : 소상공인을 위한 디지털 마케팅 플랫폼  
   → 디지털 마케팅에 어려움을 겪는 시장 소상공인을 위한 간단 디지털 마케팅 플랫폼  
   → [Repo Link](https://github.com/changuii/DigitalMarketing-Server)
