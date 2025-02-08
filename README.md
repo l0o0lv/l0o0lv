@@ -26,10 +26,40 @@
 - **경북대 계명대 공동 해커톤** : 리뷰할래?  
   → AI 리뷰 품질 개선을 통한 마케팅 도우미  
   → [Repo Link](https://github.com/merge-halle)
-- **멋쟁이사자처럼 12기 해커톤**
+- **멋쟁이사자처럼 12기 해커톤** : 쉽고 재밌게 운동하자<div align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fl0o0lv&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
+## ✨ 소개
+경쟁보다 함께 성장하는 것을 좋아하는 백엔드 개발자, 한동근입니다.
+- **SSAFY 13기**  
+- **계명대학교 컴퓨터공학과 졸업**
+
+## 👋 이력  
+
+- **SSAFY 13기** (2025.01~)  
+- **계명대학교** (2019.03~2025.02) : 컴퓨터공학과 졸업
+- **계명대학교 K-STAR** (2024.12) : E영역 인증
+- **멋쟁이사자처럼 대학 12기** (2024.01~2024.12) : 12기 운영진  
+- **멋쟁이사자처럼 대학 11기** (2023.01~2023.12) : 11기 신입부원  
+- **계명대학교 공과대학 학생회** (2022.01~2022.12) : 체육부장
+
+## ⚙ 프로젝트
+
+- **서퍼톤** : 도전할래?  
+  → 간단한 프로젝트 설명으로 공모전 맞춤 검색을 할 수 있는 서비스  
+  → [Repo Link](https://github.com/GongmoHub)  
+- **경북대 계명대 공동 해커톤** : 리뷰할래?  
+  → AI 리뷰 품질 개선을 통한 마케팅 도우미  
+  → [Repo Link](https://github.com/merge-halle)  
+- **멋쟁이사자처럼 12기 해커톤** : 온나(onna)  
+  → 쉽고 재밌게 운동하자. 트레이너 매칭 플랫폼 서비스  
+  → [Repo Link](https://github.com/Will-you-merge-me)  
 - **캡스톤디자인 : 모두의 투표** - DO표  
   → 주변인들에게 물어보기 애매했던 질문들을 투표를 통해 소통하는 커뮤니티  
-  → [Repo Link](https://github.com/l0o0lv/DoVote-MSA)
+  → [Repo Link](https://github.com/l0o0lv/DoVote-MSA)  
 - **멋쟁이사자처럼 11기 해커톤** : 소상공인을 위한 디지털 마케팅 플랫폼  
   → 디지털 마케팅에 어려움을 겪는 시장 소상공인을 위한 간단 디지털 마케팅 플랫폼  
   → [Repo Link](https://github.com/changuii/DigitalMarketing-Server)
