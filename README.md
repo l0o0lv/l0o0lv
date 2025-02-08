@@ -22,19 +22,19 @@
 
 - **서퍼톤** : 도전할래?  
   → 간단한 프로젝트 설명으로 공모전 맞춤 검색을 할 수 있는 서비스  
-  → [Repo Link](https://github.com/GongmoHub)  
+  → [Repo](https://github.com/GongmoHub)  
 - **경북대 계명대 공동 해커톤** : 리뷰할래?  
   → AI 리뷰 품질 개선을 통한 마케팅 도우미  
-  → [Repo Link](https://github.com/merge-halle)  
+  → [Repo](https://github.com/merge-halle)  
 - **멋쟁이사자처럼 12기 해커톤** : 온나(onna)  
   → 쉽고 재밌게 운동하자. 트레이너 매칭 플랫폼 서비스  
-  → [Repo Link](https://github.com/Will-you-merge-me)  
+  → [Repo](https://github.com/Will-you-merge-me)  
 - **캡스톤디자인 : 모두의 투표** - DO표  
   → 주변인들에게 물어보기 애매했던 질문들을 투표를 통해 소통하는 커뮤니티  
-  → [Repo Link](https://github.com/l0o0lv/DoVote-MSA)  
+  → [Repo](https://github.com/l0o0lv/DoVote-MSA)  
 - **멋쟁이사자처럼 11기 해커톤** : 소상공인을 위한 디지털 마케팅 플랫폼  
   → 디지털 마케팅에 어려움을 겪는 시장 소상공인을 위한 간단 디지털 마케팅 플랫폼  
-  → [Repo Link](https://github.com/changuii/DigitalMarketing-Server)
+  → [Repo](https://github.com/changuii/DigitalMarketing-Server)
 
 ## 🎉 수상  
 
