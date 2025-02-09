@@ -27,7 +27,7 @@
   → AI 리뷰 품질 개선을 통한 마케팅 도우미  
   → <a href="https://github.com/merge-halle" target="_blank">Repo</a>  
 - **멋쟁이사자처럼 12기 해커톤** : 온나(onna)  
-  → 쉽고 재밌게 운동하자. 트레이너 매칭 플랫폼 서비스  
+  → 쉽고 재밌게 운동하자. 트레이너 매칭 플랫폼  
   → <a href="https://github.com/Will-you-merge-me" target="_blank">Repo</a>  
 - **캡스톤디자인 : 모두의 투표** - DO표  
   → 주변인들에게 물어보기 애매했던 질문들을 투표를 통해 소통하는 커뮤니티  
