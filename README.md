@@ -104,5 +104,5 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrms001030)](https://solved.ac/ehdrms001030)
 
 ## Portfolio Link
-<a href="l0o0lv.github.io/portfolio/" target="_blank">Go Portfolio</a>
+<a href="[l0o0lv.github.io/portfolio/](https://l0o0lv.github.io/portfolio/ko/)" target="_blank">Go Portfolio</a>
 
