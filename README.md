@@ -36,11 +36,11 @@
 
 ## 🎉 수상  
 
-- **제 8회 4차 산업혁명 인재양성 공유 협업 페스티발** : ICT솔루션(코딩)부문 우수상(공모전 멘토링 및 맞춤 검색 플랫폼 : 공모허브)
+- **제 8회 4차 산업혁명 인재양성 공유 협업 페스티발** : ICT솔루션(코딩)부문 우수상(공모전 멘토링 및 맞춤 검색 플랫폼 : 공모허브)  
   → <a href="https://www.youtube.com/watch?v=itsylWX8moo&t=54s" target="_blank">Youtube</a>  
 - **벤처스타트업 아카데미** : 중소벤처기업부장관상   
   → <a href="https://www.kmib.co.kr/article/view.asp?arcid=0020693743" target="_blank">News</a>  
-- **경북대학교 & 계명대학교 공동 해커톤** : 금상 (리뷰 품질 개선 AI를 통한 마케팅 도우미 : 리뷰할래?)
+- **경북대학교 & 계명대학교 공동 해커톤** : 금상 (리뷰 품질 개선 AI를 통한 마케팅 도우미 : 리뷰할래?)  
   → <a href="https://www.canva.com/design/DAGNVikok0U/B1B_3JG7ET5tZAh8zGOIcA/edit?utm_content=DAGNVikok0U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">PPT</a>  
 - **대한전자공학회 2024 하계학술대회** : 우수논문상 (대규모 언어 모델(LLM)의 종류별 프로그래밍 성능 비교)  
 - **계명대학교 교내 IT 콘텐츠 제작 공모전** : 장려상 (생성형 AI 기술 알아보기)  
