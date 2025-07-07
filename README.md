@@ -38,8 +38,8 @@
 
 ## ⚙ 프로젝트
 - **충청북도 공공데이터 창업 경진대회** : Port-It  
-  → 청년 구직자가 졸업 작품이나 자신의 포트폴리오를 기업에게 제시해 기업과 협업할 수 있는 서비스.
-  → <a href="https://github.com/chungbuk-data-contest">Repo</a>
+  → 청년 구직자가 졸업 작품이나 자신의 포트폴리오를 기업에게 제시해 기업과 협업할 수 있는 서비스.  
+  → <a href="https://github.com/chungbuk-data-contest" target="_blank">Repo</a>  
 - **서퍼톤(타 공모전에서 고도화)** : 공모허브  
   → 간단한 프로젝트 설명으로 공모전 맞춤 검색을 할 수 있는 서비스  
   → <a href="https://github.com/GongmoHub" target="_blank">Repo</a>  
