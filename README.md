@@ -1,5 +1,7 @@
-![](https://komarev.com/ghpvc/?username=l0o0lv&color=green)
- 
+<div align="center">
+ ![](https://komarev.com/ghpvc/?username=l0o0lv&color=green)
+</div>
+
 ## ✨ 소개 
 경쟁보다 함께 성장하는 것을 좋아하는 개발자, 한동근입니다.
 - **SSAFY 13기** 
