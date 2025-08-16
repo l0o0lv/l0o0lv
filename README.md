@@ -35,7 +35,8 @@
   → <a href="https://github.com/changuii/DigitalMarketing-Server" target="_blank">Repo</a>  
 
 ## 🎉 수상  
-
+- **SSAFY 1학기 최종 관통 프로젝트** : 최우수상(생성형 AI 기반 NFC와 블루투스를 활용한 Smart Store 서비스)
+  → <a href="https://www.canva.com/design/DAGonFoO1ck/BFpCjn6Y1ytnVVAthtXmcw/edit?utm_content=DAGonFoO1ck&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Presentation</a>  
 - **제 8회 4차 산업혁명 인재양성 공유 협업 페스티발** : ICT솔루션(코딩)부문 우수상(공모전 멘토링 및 맞춤 검색 플랫폼 : 공모허브)  
   → <a href="https://www.youtube.com/watch?v=itsylWX8moo&t=54s" target="_blank">Youtube</a>  
 - **벤처스타트업 아카데미** : 중소벤처기업부장관상   
