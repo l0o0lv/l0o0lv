@@ -15,9 +15,12 @@
 - **계명대학교 공과대학 학생회** (2022.01~2022.12) : 체육부장
 
 ## ⚙ 프로젝트
-- **충청북도 공공데이터 창업 경진대회** : Port-It  
-  → 청년 구직자가 졸업 작품이나 자신의 포트폴리오를 기업에게 제시해 기업과 협업할 수 있는 서비스.  
-  → <a href="https://github.com/chungbuk-data-contest" target="_blank">Repo</a>  
+- **2025 충청북도 공공데이터 활용 창업 경진대회** : Port-It  
+  → 청년 구직자가 졸업 작품이나 자신의 포트폴리오를 기업에게 제시해 기업과 협업할 수 있는 서비스   
+  → <a href="https://github.com/chungbuk-data-contest" target="_blank">Repo</a>
+- **SSAFY 1학기 최종 관통 프로젝트** : README  
+  → 책 속 캐릭터와 대화하는 AI 북스토어  
+  → <a href="" target="_blank">Repo(준비 중)</a>
 - **서퍼톤(타 공모전에서 고도화)** : 공모허브  
   → 간단한 프로젝트 설명으로 공모전 맞춤 검색을 할 수 있는 서비스  
   → <a href="https://github.com/GongmoHub" target="_blank">Repo</a>  
@@ -35,8 +38,10 @@
   → <a href="https://github.com/changuii/DigitalMarketing-Server" target="_blank">Repo</a>  
 
 ## 🎉 수상  
-- **SSAFY 1학기 최종 관통 프로젝트** : 최우수상(생성형 AI 기반 NFC와 블루투스를 활용한 Smart Store 서비스)  
-  → <a href="https://www.canva.com/design/DAGonFoO1ck/BFpCjn6Y1ytnVVAthtXmcw/edit?utm_content=DAGonFoO1ck&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Presentation</a>  
+- **2025 충청북도 공공데이터 활용 창업 경진대회** : 장려상(작품 위주의 채용 방식을 통해, 일자리 미스매칭 문제를 해결하다 : Port-It)  
+  → <a href="https://www.cj-ilbo.com/news/articleView.html?idxno=1157616" target="_blank">News</a>  
+- **SSAFY 1학기 최종 관통 프로젝트** : 최우수상(책 속 캐릭터와 대화하는 AI 북스토어 : README)  
+  → <a href="https://www.canva.com/design/DAGonFoO1ck/BFpCjn6Y1ytnVVAthtXmcw/edit?utm_content=DAGonFoO1ck&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">PPT</a>  
 - **제 8회 4차 산업혁명 인재양성 공유 협업 페스티발** : ICT솔루션(코딩)부문 우수상(공모전 멘토링 및 맞춤 검색 플랫폼 : 공모허브)  
   → <a href="https://www.youtube.com/watch?v=itsylWX8moo&t=54s" target="_blank">Youtube</a>  
 - **벤처스타트업 아카데미** : 중소벤처기업부장관상   
@@ -45,7 +50,8 @@
   → <a href="https://www.canva.com/design/DAGNVikok0U/B1B_3JG7ET5tZAh8zGOIcA/edit?utm_content=DAGNVikok0U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">PPT</a>  
 - **대한전자공학회 2024 하계학술대회** : 우수논문상 (대규모 언어 모델(LLM)의 종류별 프로그래밍 성능 비교)  
 - **계명대학교 교내 IT 콘텐츠 제작 공모전** : 장려상 (생성형 AI 기술 알아보기)  
-  → <a href="https://www.youtube.com/watch?v=YriS7VdEInw&t=7s" target="_blank">Youtube</a>  
+  → <a href="https://www.youtube.com/watch?v=YriS7VdEInw&t=7s" target="_blank">Youtube</a>
+- **2024년 한국정보기술학회 하계종합학술대회** : 동상(투표 기반 커뮤니티 어플리케이션 - Do표)  
 - **제 7회 4차 산업혁명 인재양성 공유 협업 페스티발** : ICT솔루션(코딩)부문 대상  
   → <a href="https://www.youtube.com/watch?v=b4onGVUMpPY" target="_blank">Youtube</a>  
 
