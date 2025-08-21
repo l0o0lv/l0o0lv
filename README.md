@@ -15,6 +15,8 @@
 - **계명대학교 공과대학 학생회** (2022.01~2022.12) : 체육부장
 
 ## ⚙ 프로젝트
+- **SSAFY 2학기 공통 프로젝트** : 쫑글
+  → 아이들의 빈 시간을 채워주는 유아 학습 플랫폼  
 - **2025 충청북도 공공데이터 활용 창업 경진대회** : Port-It  
   → 청년 구직자가 졸업 작품이나 자신의 포트폴리오를 기업에게 제시해 기업과 협업할 수 있는 서비스   
   → <a href="https://github.com/chungbuk-data-contest" target="_blank">Repo</a>
@@ -38,6 +40,7 @@
   → <a href="https://github.com/changuii/DigitalMarketing-Server" target="_blank">Repo</a>  
 
 ## 🎉 수상  
+- **SSAFY 2학기 공통 프로젝트** : 우수상(아이들의 빈 시간을 채워주는 유아 학습 플랫폼 : 쫑글)  
 - **2025 충청북도 공공데이터 활용 창업 경진대회** : 장려상(작품 위주의 채용 방식을 통해, 일자리 미스매칭 문제를 해결하다 : Port-It)  
   → <a href="https://www.cj-ilbo.com/news/articleView.html?idxno=1157616" target="_blank">News</a>  
 - **SSAFY 1학기 최종 관통 프로젝트** : 최우수상(책 속 캐릭터와 대화하는 AI 북스토어 : README)  
