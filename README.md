@@ -40,7 +40,8 @@
   → <a href="https://github.com/changuii/DigitalMarketing-Server" target="_blank">Repo</a>  
 
 ## 🎉 수상  
-- **SSAFY 2학기 공통 프로젝트** : 우수상(아이들의 빈 시간을 채워주는 유아 학습 플랫폼 : 쫑글)  
+- **SSAFY 2학기 공통 프로젝트** : 우수상(아이들의 빈 시간을 채워주는 유아 학습 플랫폼 : 쫑글)
+  → <a href="https://www.canva.com/design/DAGvsB6cPvA/9W4SjH_cfJCmJKud3tKiDg/view?utm_content=DAGvsB6cPvA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e0f99eb99" target="_blank">PPT</a>  
 - **2025 충청북도 공공데이터 활용 창업 경진대회** : 장려상(작품 위주의 채용 방식을 통해, 일자리 미스매칭 문제를 해결하다 : Port-It)  
   → <a href="https://www.cj-ilbo.com/news/articleView.html?idxno=1157616" target="_blank">News</a>  
 - **SSAFY 1학기 최종 관통 프로젝트** : 최우수상(책 속 캐릭터와 대화하는 AI 북스토어 : README)  
