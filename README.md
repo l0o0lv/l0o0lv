@@ -16,10 +16,10 @@
 
 ## ⚙ 프로젝트
 - **SSAFY 2학기 특화 프로젝트** : 마이슈  
-  → 바쁜 현대인들을 위한 숏 콘텐츠 기반 뉴스 플랫폼
+  → 바쁜 현대인들을 위한 숏 콘텐츠 기반 뉴스 플랫폼  
   → <a href="https://github.com/My-issue-ssafy/my-issue" target="_blank">Repo</a>  
 - **SSAFY 2학기 공통 프로젝트** : 쫑글  
-  → 아이들의 빈 시간을 채워주는 유아 학습 플랫폼
+  → 아이들의 빈 시간을 채워주는 유아 학습 플랫폼  
   → <a href="https://github.com/JJongle-ssafy/JJongle-Backend" target="_blank">Repo</a>  
 - **2025 충청북도 공공데이터 활용 창업 경진대회** : Port-It  
   → 청년 구직자가 졸업 작품이나 자신의 포트폴리오를 기업에게 제시해 기업과 협업할 수 있는 서비스   
