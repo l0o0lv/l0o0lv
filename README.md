@@ -24,7 +24,7 @@
   → <a href="https://github.com/chungbuk-data-contest" target="_blank">Repo</a>
 - **SSAFY 1학기 최종 관통 프로젝트** : README  
   → 책 속 캐릭터와 대화하는 AI 북스토어  
-  → <a href="" target="_blank">Repo(준비 중)</a>
+  → <a href="https://github.com/l0o0lv/ssafy_final_project" target="_blank">Repo</a>  
 - **서퍼톤(타 공모전에서 고도화)** : 공모허브  
   → 간단한 프로젝트 설명으로 공모전 맞춤 검색을 할 수 있는 서비스  
   → <a href="https://github.com/GongmoHub" target="_blank">Repo</a>  
