@@ -63,15 +63,6 @@
 - **제 7회 4차 산업혁명 인재양성 공유 협업 페스티발** : ICT솔루션(코딩)부문 대상  
   → <a href="https://www.youtube.com/watch?v=b4onGVUMpPY" target="_blank">Youtube</a>  
 
-## 🍀 자격증  
-
-- **정보처리기사**  
-- **TOPCIT 3수준**  
-- **SQLD**  
-- **컴퓨터활용능력 1급**  
-- **한국사능력검정시험 1급**
-- **지게차운전기능사**  
-
 ## 📚 논문  
 
 - **대한전자공학회 2024년도 하계학술대회** - 대규모 언어 모델(LLM)의 종류별 프로그래밍 성능 비교(우수논문상)  
@@ -80,6 +71,15 @@
   → <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825681" target="_blank">DBpia</a>  
 - **한국통신학회 2023년도 추계종합학술대회** - 블록체인을 연계한 전자투표 시스템의 연구 동향  
   → <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11667720" target="_blank">DBpia</a>  
+
+## 🍀 자격증  
+
+- **정보처리기사**  
+- **TOPCIT 3수준**  
+- **SQLD**  
+- **컴퓨터활용능력 1급**  
+- **한국사능력검정시험 1급**
+- **지게차운전기능사**
 
 ## 📫 기술스택  
 
