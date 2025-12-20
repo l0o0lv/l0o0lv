@@ -15,7 +15,7 @@
 ## ⚙ 프로젝트
 - **SSAFY 2학기 자율 프로젝트** : o-O  
   → AI 기반 마인드맵 협업 플랫폼  
-  → <a href="https://github.com/My-issue-ssafy/my-issue" target="_blank">Repo</a>  
+  → <a href="https://github.com/o-O-ssafy" target="_blank">Repo</a>  
 - **SSAFY 2학기 특화 프로젝트** : 마이슈  
   → 바쁜 현대인들을 위한 숏 콘텐츠 기반 뉴스 플랫폼  
   → <a href="https://github.com/My-issue-ssafy/my-issue" target="_blank">Repo</a>  
