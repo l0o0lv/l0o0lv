@@ -113,15 +113,6 @@
 ## 📫 Email  
 
 - **ehdrms001030@naver.com**  
-
-## 🖋 Blog 
-
-- **[https://l0o0lv.tistory.com/](https://l0o0lv.tistory.com/)**
   
 ## 🏆 Solved.ac
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrms001030)](https://solved.ac/ehdrms001030)
-
-## Portfolio Link
-
-<a href="https://l0o0lv.github.io/portfolio/ko/" target="_blank">Go Portfolio</a>
-
