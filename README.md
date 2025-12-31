@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=l0o0lv&color=green)
 
-## ✨ 소개 
+## ✨ 소개 ㄴ
 경쟁보다 함께 성장하는 것을 좋아하는 개발자, 한동근입니다.
 
 ## 👋 이력  
