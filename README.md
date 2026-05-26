@@ -204,4 +204,62 @@ Hello, I'm Donggeun Han, a developer who enjoys growing together rather than com
   → Easy Digital Marketing Platform for Traditional Market Merchants  
   → <a href="https://github.com/changuii/DigitalMarketing-Server" target="_blank">Repo</a>  
 
+## 🎉 Awards
+
+- **SSAFY Specialized Project** : Excellence Award (Myssue: Short-form News Platform for Busy Modern People)  
+  → <a href="https://www.canva.com/design/DAGzrgSOpCk/6PX6DX1-TpSviCfEGy0kPA/view?utm_content=DAGzrgSOpCk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4490f16538" target="_blank">PPT</a>  
+
+- **SSAFY Common Project** : Excellence Award (JJongle: Educational Platform for Children)  
+  → <a href="https://www.canva.com/design/DAGvsB6cPvA/9W4SjH_cfJCmJKud3tKiDg/view?utm_content=DAGvsB6cPvA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e0f99eb99" target="_blank">PPT</a>  
+
+- **2025 Chungbuk Public Data Startup Contest** : Encouragement Award (Port-It: Solving Job Mismatch Problems through Portfolio-based Hiring)  
+  → <a href="https://www.cj-ilbo.com/news/articleView.html?idxno=1157616" target="_blank">News</a>  
+
+- **SSAFY Final Project** : Grand Prize (README: AI Bookstore Where Users Can Talk with Book Characters)  
+  → <a href="https://www.canva.com/design/DAGonFoO1ck/NQa58A4qqF5apER9cCop6A/view?utm_content=DAGonFoO1ck&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7ea3b6ac8d" target="_blank">PPT</a>  
+
+- **8th Industry 4.0 Talent Development Collaboration Festival** : ICT Solution(Coding) Excellence Award  
+  → <a href="https://www.youtube.com/watch?v=itsylWX8moo&t=54s" target="_blank">Youtube</a>  
+
+- **Venture Startup Academy** : Minister of SMEs and Startups Award  
+  → <a href="https://www.kmib.co.kr/article/view.asp?arcid=0020693743" target="_blank">News</a>  
+
+- **Kyungpook National University & Keimyung University Hackathon** : Gold Prize  
+  → <a href="https://www.canva.com/design/DAGNVikok0U/VEApptjrUpDYtCZHifiF3w/view?utm_content=DAGNVikok0U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1516c7bfe0" target="_blank">PPT</a>  
+
+- **The Institute of Electronics and Information Engineers Summer Conference 2024** : Best Paper Award  
+
+- **Keimyung University IT Content Production Contest** : Encouragement Award  
+  → <a href="https://www.youtube.com/watch?v=YriS7VdEInw&t=7s" target="_blank">Youtube</a>  
+
+- **2024 KIIT Summer Conference** : Bronze Prize (DO표: Voting-based Community Application)
+
+- **7th Industry 4.0 Talent Development Collaboration Festival** : ICT Solution(Coding) Grand Prize  
+  → <a href="https://www.youtube.com/watch?v=b4onGVUMpPY" target="_blank">Youtube</a>  
+
+## 📚 Papers
+
+- **IEIE Summer Conference 2024**  
+  → Comparative Analysis of Programming Performance Across Large Language Models (LLMs)  
+  → <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891073" target="_blank">DBpia</a>  
+
+- **KIIT Summer Conference 2024**  
+  → Voting-based Community Application - DO표  
+  → <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825681" target="_blank">DBpia</a>  
+
+- **KICS Fall Conference 2023**  
+  → Research Trends in Blockchain-based Electronic Voting Systems  
+  → <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11667720" target="_blank">DBpia</a>  
+
+## 🍀 Certifications
+
+- **AIDA LV2**
+- **OPIc IH**
+- **Engineer Information Processing**
+- **TOPCIT Level 3**
+- **SQLD**
+- **Computer Specialist Level 1**
+- **Korean History Proficiency Test Level 1**
+- **Forklift Operator License**
+
 </details>
