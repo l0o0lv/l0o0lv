@@ -1,5 +1,124 @@
 ![](https://komarev.com/ghpvc/?username=l0o0lv&color=green)
 
+<details>
+<summary>🇺🇸 English Version</summary>
+
+## ✨ Introduction
+Hello, I'm Donggeun Han, a developer who enjoys growing together rather than competing.
+
+## 👋 Experience
+
+- **KEPCO KDN Internship** (2026.05~2026.11) : IT Support Intern
+- **FestiCompany** (2026.03~2026.06) : Developed and maintained on-site voting and coupon book features
+- **SSAFY 13th** (2025.01~2025.12) : Student Council Activity(CA) and completed in the top 30%
+- **Keimyung University** (2019.03~2025.02) : B.S. in Computer Engineering
+- **Keimyung University K-STAR** (2024.12) : E-Area Certification
+- **LIKELION University 12th** (2024.01~2024.12) : Staff Member
+- **LIKELION University 11th** (2023.01~2023.12) : Member
+- **Keimyung University Engineering Student Council** (2022.01~2022.12) : Director of Sports Department
+
+## ⚙ Projects
+
+- **SSAFY Autonomous Project** : o-O  
+  → AI-based Mindmap Collaboration Platform  
+  → <a href="https://github.com/o-O-ssafy" target="_blank">Repo</a>  
+
+- **SSAFY Specialized Project** : Myssue  
+  → Short-form News Platform for Busy Modern People  
+  → <a href="https://github.com/My-issue-ssafy/my-issue" target="_blank">Repo</a>  
+
+- **SSAFY Common Project** : JJongle  
+  → Educational Platform for Children  
+  → <a href="https://github.com/JJongle-ssafy/JJongle-Backend" target="_blank">Repo</a>  
+
+- **2025 Chungbuk Public Data Startup Contest** : Port-It  
+  → A service where young job seekers can present their graduation projects or portfolios to companies for collaboration  
+  → <a href="https://github.com/chungbuk-data-contest" target="_blank">Repo</a>
+
+- **SSAFY Final Project** : README  
+  → AI Bookstore Where Users Can Talk with Book Characters  
+  → <a href="https://github.com/l0o0lv/ssafy_final_project" target="_blank">Repo</a>  
+
+- **Surferton (Advanced from Previous Contest)** : GongmoHub  
+  → AI-based Contest Recommendation Platform  
+  → <a href="https://github.com/GongmoHub" target="_blank">Repo</a>  
+
+- **Kyungpook National University & Keimyung University Hackathon** : ReviewHalrae?  
+  → Marketing Assistant through AI Review Quality Improvement  
+  → <a href="https://github.com/merge-halle" target="_blank">Repo</a>  
+
+- **LIKELION 12th Hackathon** : Onna  
+  → Trainer Matching Platform for Fun Workouts  
+  → <a href="https://github.com/Will-you-merge-me" target="_blank">Repo</a>  
+
+- **Capstone Design** : DO표  
+  → Community Voting Application  
+  → <a href="https://github.com/l0o0lv/DoVote-MSA" target="_blank">Repo</a>  
+
+- **LIKELION 11th Hackathon** : Digital Marketing Platform for Small Business Owners  
+  → Easy Digital Marketing Platform for Traditional Market Merchants  
+  → <a href="https://github.com/changuii/DigitalMarketing-Server" target="_blank">Repo</a>  
+
+## 🎉 Awards
+
+- **SSAFY Specialized Project** : Excellence Award (Myssue: Short-form News Platform for Busy Modern People)  
+  → <a href="https://www.canva.com/design/DAGzrgSOpCk/6PX6DX1-TpSviCfEGy0kPA/view?utm_content=DAGzrgSOpCk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4490f16538" target="_blank">PPT</a>  
+
+- **SSAFY Common Project** : Excellence Award (JJongle: Educational Platform for Children)  
+  → <a href="https://www.canva.com/design/DAGvsB6cPvA/9W4SjH_cfJCmJKud3tKiDg/view?utm_content=DAGvsB6cPvA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e0f99eb99" target="_blank">PPT</a>  
+
+- **2025 Chungbuk Public Data Startup Contest** : Encouragement Award (Port-It: Solving Job Mismatch Problems through Portfolio-based Hiring)  
+  → <a href="https://www.cj-ilbo.com/news/articleView.html?idxno=1157616" target="_blank">News</a>  
+
+- **SSAFY Final Project** : Grand Prize (README: AI Bookstore Where Users Can Talk with Book Characters)  
+  → <a href="https://www.canva.com/design/DAGonFoO1ck/NQa58A4qqF5apER9cCop6A/view?utm_content=DAGonFoO1ck&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7ea3b6ac8d" target="_blank">PPT</a>  
+
+- **8th Industry 4.0 Talent Development Collaboration Festival** : ICT Solution(Coding) Excellence Award  
+  → <a href="https://www.youtube.com/watch?v=itsylWX8moo&t=54s" target="_blank">Youtube</a>  
+
+- **Venture Startup Academy** : Minister of SMEs and Startups Award  
+  → <a href="https://www.kmib.co.kr/article/view.asp?arcid=0020693743" target="_blank">News</a>  
+
+- **Kyungpook National University & Keimyung University Hackathon** : Gold Prize  
+  → <a href="https://www.canva.com/design/DAGNVikok0U/VEApptjrUpDYtCZHifiF3w/view?utm_content=DAGNVikok0U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1516c7bfe0" target="_blank">PPT</a>  
+
+- **The Institute of Electronics and Information Engineers Summer Conference 2024** : Best Paper Award  
+
+- **Keimyung University IT Content Production Contest** : Encouragement Award  
+  → <a href="https://www.youtube.com/watch?v=YriS7VdEInw&t=7s" target="_blank">Youtube</a>  
+
+- **2024 KIIT Summer Conference** : Bronze Prize (DO표: Voting-based Community Application)
+
+- **7th Industry 4.0 Talent Development Collaboration Festival** : ICT Solution(Coding) Grand Prize  
+  → <a href="https://www.youtube.com/watch?v=b4onGVUMpPY" target="_blank">Youtube</a>  
+
+## 📚 Papers
+
+- **IEIE Summer Conference 2024**  
+  → Comparative Analysis of Programming Performance Across Large Language Models (LLMs)  
+  → <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891073" target="_blank">DBpia</a>  
+
+- **KIIT Summer Conference 2024**  
+  → Voting-based Community Application - DO표  
+  → <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825681" target="_blank">DBpia</a>  
+
+- **KICS Fall Conference 2023**  
+  → Research Trends in Blockchain-based Electronic Voting Systems  
+  → <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11667720" target="_blank">DBpia</a>  
+
+## 🍀 Certifications
+
+- **AIDA LV2**
+- **OPIc IH**
+- **Engineer Information Processing**
+- **TOPCIT Level 3**
+- **SQLD**
+- **Computer Specialist Level 1**
+- **Korean History Proficiency Test Level 1**
+- **Forklift Operator License**
+
+</details>
+
 ## ✨ 소개 
 경쟁보다 함께 성장하는 것을 좋아하는 개발자, 한동근입니다.
 
@@ -144,122 +263,3 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrms001030)](https://solved.ac/ehdrms001030)
 
 ---
-
-<details>
-<summary>🇺🇸 English Version</summary>
-
-## ✨ Introduction
-Hello, I'm Donggeun Han, a developer who enjoys growing together rather than competing.
-
-## 👋 Experience
-
-- **KEPCO KDN Internship** (2026.05~2026.11) : IT Support Intern
-- **FestiCompany** (2026.03~2026.06) : Developed and maintained on-site voting and coupon book features
-- **SSAFY 13th** (2025.01~2025.12) : Student Council Activity(CA) and completed in the top 30%
-- **Keimyung University** (2019.03~2025.02) : B.S. in Computer Engineering
-- **Keimyung University K-STAR** (2024.12) : E-Area Certification
-- **LIKELION University 12th** (2024.01~2024.12) : Staff Member
-- **LIKELION University 11th** (2023.01~2023.12) : Member
-- **Keimyung University Engineering Student Council** (2022.01~2022.12) : Director of Sports Department
-
-## ⚙ Projects
-
-- **SSAFY Autonomous Project** : o-O  
-  → AI-based Mindmap Collaboration Platform  
-  → <a href="https://github.com/o-O-ssafy" target="_blank">Repo</a>  
-
-- **SSAFY Specialized Project** : Myssue  
-  → Short-form News Platform for Busy Modern People  
-  → <a href="https://github.com/My-issue-ssafy/my-issue" target="_blank">Repo</a>  
-
-- **SSAFY Common Project** : JJongle  
-  → Educational Platform for Children  
-  → <a href="https://github.com/JJongle-ssafy/JJongle-Backend" target="_blank">Repo</a>  
-
-- **2025 Chungbuk Public Data Startup Contest** : Port-It  
-  → A service where young job seekers can present their graduation projects or portfolios to companies for collaboration  
-  → <a href="https://github.com/chungbuk-data-contest" target="_blank">Repo</a>
-
-- **SSAFY Final Project** : README  
-  → AI Bookstore Where Users Can Talk with Book Characters  
-  → <a href="https://github.com/l0o0lv/ssafy_final_project" target="_blank">Repo</a>  
-
-- **Surferton (Advanced from Previous Contest)** : GongmoHub  
-  → AI-based Contest Recommendation Platform  
-  → <a href="https://github.com/GongmoHub" target="_blank">Repo</a>  
-
-- **Kyungpook National University & Keimyung University Hackathon** : ReviewHalrae?  
-  → Marketing Assistant through AI Review Quality Improvement  
-  → <a href="https://github.com/merge-halle" target="_blank">Repo</a>  
-
-- **LIKELION 12th Hackathon** : Onna  
-  → Trainer Matching Platform for Fun Workouts  
-  → <a href="https://github.com/Will-you-merge-me" target="_blank">Repo</a>  
-
-- **Capstone Design** : DO표  
-  → Community Voting Application  
-  → <a href="https://github.com/l0o0lv/DoVote-MSA" target="_blank">Repo</a>  
-
-- **LIKELION 11th Hackathon** : Digital Marketing Platform for Small Business Owners  
-  → Easy Digital Marketing Platform for Traditional Market Merchants  
-  → <a href="https://github.com/changuii/DigitalMarketing-Server" target="_blank">Repo</a>  
-
-## 🎉 Awards
-
-- **SSAFY Specialized Project** : Excellence Award (Myssue: Short-form News Platform for Busy Modern People)  
-  → <a href="https://www.canva.com/design/DAGzrgSOpCk/6PX6DX1-TpSviCfEGy0kPA/view?utm_content=DAGzrgSOpCk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4490f16538" target="_blank">PPT</a>  
-
-- **SSAFY Common Project** : Excellence Award (JJongle: Educational Platform for Children)  
-  → <a href="https://www.canva.com/design/DAGvsB6cPvA/9W4SjH_cfJCmJKud3tKiDg/view?utm_content=DAGvsB6cPvA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e0f99eb99" target="_blank">PPT</a>  
-
-- **2025 Chungbuk Public Data Startup Contest** : Encouragement Award (Port-It: Solving Job Mismatch Problems through Portfolio-based Hiring)  
-  → <a href="https://www.cj-ilbo.com/news/articleView.html?idxno=1157616" target="_blank">News</a>  
-
-- **SSAFY Final Project** : Grand Prize (README: AI Bookstore Where Users Can Talk with Book Characters)  
-  → <a href="https://www.canva.com/design/DAGonFoO1ck/NQa58A4qqF5apER9cCop6A/view?utm_content=DAGonFoO1ck&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7ea3b6ac8d" target="_blank">PPT</a>  
-
-- **8th Industry 4.0 Talent Development Collaboration Festival** : ICT Solution(Coding) Excellence Award  
-  → <a href="https://www.youtube.com/watch?v=itsylWX8moo&t=54s" target="_blank">Youtube</a>  
-
-- **Venture Startup Academy** : Minister of SMEs and Startups Award  
-  → <a href="https://www.kmib.co.kr/article/view.asp?arcid=0020693743" target="_blank">News</a>  
-
-- **Kyungpook National University & Keimyung University Hackathon** : Gold Prize  
-  → <a href="https://www.canva.com/design/DAGNVikok0U/VEApptjrUpDYtCZHifiF3w/view?utm_content=DAGNVikok0U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1516c7bfe0" target="_blank">PPT</a>  
-
-- **The Institute of Electronics and Information Engineers Summer Conference 2024** : Best Paper Award  
-
-- **Keimyung University IT Content Production Contest** : Encouragement Award  
-  → <a href="https://www.youtube.com/watch?v=YriS7VdEInw&t=7s" target="_blank">Youtube</a>  
-
-- **2024 KIIT Summer Conference** : Bronze Prize (DO표: Voting-based Community Application)
-
-- **7th Industry 4.0 Talent Development Collaboration Festival** : ICT Solution(Coding) Grand Prize  
-  → <a href="https://www.youtube.com/watch?v=b4onGVUMpPY" target="_blank">Youtube</a>  
-
-## 📚 Papers
-
-- **IEIE Summer Conference 2024**  
-  → Comparative Analysis of Programming Performance Across Large Language Models (LLMs)  
-  → <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891073" target="_blank">DBpia</a>  
-
-- **KIIT Summer Conference 2024**  
-  → Voting-based Community Application - DO표  
-  → <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825681" target="_blank">DBpia</a>  
-
-- **KICS Fall Conference 2023**  
-  → Research Trends in Blockchain-based Electronic Voting Systems  
-  → <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11667720" target="_blank">DBpia</a>  
-
-## 🍀 Certifications
-
-- **AIDA LV2**
-- **OPIc IH**
-- **Engineer Information Processing**
-- **TOPCIT Level 3**
-- **SQLD**
-- **Computer Specialist Level 1**
-- **Korean History Proficiency Test Level 1**
-- **Forklift Operator License**
-
-</details>
