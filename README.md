@@ -19,45 +19,35 @@ Hello, I'm Donggeun Han, a developer who enjoys growing together rather than com
 
 ## ⚙ Projects
 
-- **SSAFY Autonomous Project** : o-O  
-  → AI-based Mindmap Collaboration Platform  
-  → <a href="https://github.com/o-O-ssafy" target="_blank">Repo</a>  
+- **SSAFY Autonomous Project** : <a href="https://github.com/o-O-ssafy" target="_blank">o-O</a>  
+  → AI-based Mindmap Collaboration Platform
 
-- **SSAFY Specialized Project** : Myssue  
-  → Short-form News Platform for Busy Modern People  
-  → <a href="https://github.com/My-issue-ssafy/my-issue" target="_blank">Repo</a>  
+- **SSAFY Specialized Project** : <a href="https://github.com/My-issue-ssafy/my-issue" target="_blank">Myssue</a>  
+  → Short-form News Platform for Busy Modern People
 
-- **SSAFY Common Project** : JJongle  
-  → Educational Platform for Children  
-  → <a href="https://github.com/JJongle-ssafy/JJongle-Backend" target="_blank">Repo</a>  
+- **SSAFY Common Project** : <a href="https://github.com/JJongle-ssafy/JJongle-Backend" target="_blank">JJongle</a>  
+  → Educational Platform for Children
 
-- **2025 Chungbuk Public Data Startup Contest** : Port-It  
-  → A service where young job seekers can present their graduation projects or portfolios to companies for collaboration  
-  → <a href="https://github.com/chungbuk-data-contest" target="_blank">Repo</a>
+- **2025 Chungbuk Public Data Startup Contest** : <a href="https://github.com/chungbuk-data-contest" target="_blank">Port-It</a>  
+  → A service where young job seekers can present their graduation projects or portfolios to companies for collaboration
 
-- **SSAFY Final Project** : README  
-  → AI Bookstore Where Users Can Talk with Book Characters  
-  → <a href="https://github.com/l0o0lv/ssafy_final_project" target="_blank">Repo</a>  
+- **SSAFY Final Project** : <a href="https://github.com/l0o0lv/ssafy_final_project" target="_blank">README</a>  
+  → AI Bookstore Where Users Can Talk with Book Characters
 
-- **Surferton** : GongmoHub  
-  → AI-based Contest Recommendation Platform  
-  → <a href="https://github.com/GongmoHub" target="_blank">Repo</a>  
+- **Surferton** : <a href="https://github.com/GongmoHub" target="_blank">GongmoHub</a>  
+  → AI-based Contest Recommendation Platform
 
-- **Kyungpook National University & Keimyung University Hackathon** : ReviewHalrae?  
-  → Marketing Assistant through AI Review Quality Improvement  
-  → <a href="https://github.com/merge-halle" target="_blank">Repo</a>  
+- **Kyungpook National University & Keimyung University Hackathon** : <a href="https://github.com/merge-halle" target="_blank">ReviewHalrae?</a>  
+  → Marketing Assistant through AI Review Quality Improvement
 
-- **LIKELION 12th Hackathon** : Onna  
-  → Trainer Matching Platform for Fun Workouts  
-  → <a href="https://github.com/Will-you-merge-me" target="_blank">Repo</a>  
+- **LIKELION 12th Hackathon** : <a href="https://github.com/Will-you-merge-me" target="_blank">Onna</a>  
+  → Trainer Matching Platform for Fun Workouts
 
-- **Capstone Design** : DO표  
-  → Community Voting Application  
-  → <a href="https://github.com/l0o0lv/DoVote-MSA" target="_blank">Repo</a>  
+- **Capstone Design** : <a href="https://github.com/l0o0lv/DoVote-MSA" target="_blank">DO표</a>  
+  → Community Voting Application
 
-- **LIKELION 11th Hackathon** : Digital Marketing Platform for Small Business Owners  
-  → Easy Digital Marketing Platform for Traditional Market Merchants  
-  → <a href="https://github.com/changuii/DigitalMarketing-Server" target="_blank">Repo</a>  
+- **LIKELION 11th Hackathon** : <a href="https://github.com/changuii/DigitalMarketing-Server" target="_blank">Digital Marketing Platform for Small Business Owners</a>  
+  → Easy Digital Marketing Platform for Traditional Market Merchants
 
 ## 🎉 Awards
 
@@ -130,45 +120,36 @@ Hello, I'm Donggeun Han, a developer who enjoys growing together rather than com
 - **계명대학교 공과대학 학생회** (2022.01~2022.12) : 체육부장
 
 ## ⚙ 프로젝트
-- **SSAFY 2학기 자율 프로젝트** : o-O  
-  → AI 기반 마인드맵 협업 플랫폼  
-  → <a href="https://github.com/o-O-ssafy" target="_blank">Repo</a>  
 
-- **SSAFY 2학기 특화 프로젝트** : 마이슈  
-  → 바쁜 현대인들을 위한 숏 콘텐츠 기반 뉴스 플랫폼  
-  → <a href="https://github.com/My-issue-ssafy/my-issue" target="_blank">Repo</a>  
+- **SSAFY 2학기 자율 프로젝트** : <a href="https://github.com/o-O-ssafy" target="_blank">o-O</a>  
+  → AI 기반 마인드맵 협업 플랫폼
 
-- **SSAFY 2학기 공통 프로젝트** : 쫑글  
-  → 아이들의 빈 시간을 채워주는 유아 학습 플랫폼  
-  → <a href="https://github.com/JJongle-ssafy/JJongle-Backend" target="_blank">Repo</a>  
+- **SSAFY 2학기 특화 프로젝트** : <a href="https://github.com/My-issue-ssafy/my-issue" target="_blank">마이슈</a>  
+  → 바쁜 현대인들을 위한 숏 콘텐츠 기반 뉴스 플랫폼
 
-- **2025 충청북도 공공데이터 활용 창업 경진대회** : Port-It  
-  → 청년 구직자가 졸업 작품이나 자신의 포트폴리오를 기업에게 제시해 기업과 협업할 수 있는 서비스   
-  → <a href="https://github.com/chungbuk-data-contest" target="_blank">Repo</a>
+- **SSAFY 2학기 공통 프로젝트** : <a href="https://github.com/JJongle-ssafy/JJongle-Backend" target="_blank">쫑글</a>  
+  → 아이들의 빈 시간을 채워주는 유아 학습 플랫폼
 
-- **SSAFY 1학기 최종 관통 프로젝트** : README  
-  → 책 속 캐릭터와 대화하는 AI 북스토어  
-  → <a href="https://github.com/l0o0lv/ssafy_final_project" target="_blank">Repo</a>  
+- **2025 충청북도 공공데이터 활용 창업 경진대회** : <a href="https://github.com/chungbuk-data-contest" target="_blank">Port-It</a>  
+  → 청년 구직자가 졸업 작품이나 자신의 포트폴리오를 기업에게 제시해 기업과 협업할 수 있는 서비스
 
-- **서퍼톤** : 공모허브  
-  → 간단한 프로젝트 설명으로 공모전 맞춤 검색을 할 수 있는 서비스  
-  → <a href="https://github.com/GongmoHub" target="_blank">Repo</a>  
+- **SSAFY 1학기 최종 관통 프로젝트** : <a href="https://github.com/l0o0lv/ssafy_final_project" target="_blank">README</a>  
+  → 책 속 캐릭터와 대화하는 AI 북스토어
 
-- **경북대 계명대 공동 해커톤** : 리뷰할래?  
-  → AI 리뷰 품질 개선을 통한 마케팅 도우미  
-  → <a href="https://github.com/merge-halle" target="_blank">Repo</a>  
+- **서퍼톤** : <a href="https://github.com/GongmoHub" target="_blank">공모허브</a>  
+  → 간단한 프로젝트 설명으로 공모전 맞춤 검색을 할 수 있는 서비스
 
-- **멋쟁이사자처럼 12기 해커톤** : 온나(onna)  
-  → 쉽고 재밌게 운동하자. 트레이너 매칭 플랫폼  
-  → <a href="https://github.com/Will-you-merge-me" target="_blank">Repo</a>  
+- **경북대 계명대 공동 해커톤** : <a href="https://github.com/merge-halle" target="_blank">리뷰할래?</a>  
+  → AI 리뷰 품질 개선을 통한 마케팅 도우미
 
-- **캡스톤디자인** : 모두의 투표 - DO표  
-  → 주변인들에게 물어보기 애매했던 질문들을 투표를 통해 소통하는 커뮤니티  
-  → <a href="https://github.com/l0o0lv/DoVote-MSA" target="_blank">Repo</a>  
+- **멋쟁이사자처럼 12기 해커톤** : <a href="https://github.com/Will-you-merge-me" target="_blank">온나(onna)</a>  
+  → 쉽고 재밌게 운동하자. 트레이너 매칭 플랫폼
 
-- **멋쟁이사자처럼 11기 해커톤** : 소상공인을 위한 디지털 마케팅 플랫폼  
-  → 디지털 마케팅에 어려움을 겪는 시장 소상공인을 위한 간단 디지털 마케팅 플랫폼  
-  → <a href="https://github.com/changuii/DigitalMarketing-Server" target="_blank">Repo</a>  
+- **캡스톤디자인** : <a href="https://github.com/l0o0lv/DoVote-MSA" target="_blank">모두의 투표 - DO표</a>  
+  → 주변인들에게 물어보기 애매했던 질문들을 투표를 통해 소통하는 커뮤니티
+
+- **멋쟁이사자처럼 11기 해커톤** : <a href="https://github.com/changuii/DigitalMarketing-Server" target="_blank">소상공인을 위한 디지털 마케팅 플랫폼</a>  
+  → 디지털 마케팅에 어려움을 겪는 시장 소상공인을 위한 간단 디지털 마케팅 플랫폼
 
 ## 🎉 수상  
 - **SSAFY 2학기 특화 프로젝트** : 우수상(바쁜 현대인들을 위한 숏 콘텐츠 기반 뉴스 플랫폼 : 마이슈)  
