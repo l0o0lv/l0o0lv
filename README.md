@@ -39,7 +39,7 @@ Hello, I'm Donggeun Han, a developer who enjoys growing together rather than com
   → AI Bookstore Where Users Can Talk with Book Characters  
   → <a href="https://github.com/l0o0lv/ssafy_final_project" target="_blank">Repo</a>  
 
-- **Surferton (Advanced from Previous Contest)** : GongmoHub  
+- **Surferton** : GongmoHub  
   → AI-based Contest Recommendation Platform  
   → <a href="https://github.com/GongmoHub" target="_blank">Repo</a>  
 
@@ -150,7 +150,7 @@ Hello, I'm Donggeun Han, a developer who enjoys growing together rather than com
   → 책 속 캐릭터와 대화하는 AI 북스토어  
   → <a href="https://github.com/l0o0lv/ssafy_final_project" target="_blank">Repo</a>  
 
-- **서퍼톤(타 공모전에서 고도화)** : 공모허브  
+- **서퍼톤** : 공모허브  
   → 간단한 프로젝트 설명으로 공모전 맞춤 검색을 할 수 있는 서비스  
   → <a href="https://github.com/GongmoHub" target="_blank">Repo</a>  
 
