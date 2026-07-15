@@ -9,7 +9,7 @@ Hello, I'm Donggeun Han, a developer who enjoys growing together rather than com
 ## 👋 Experience
 
 - **KEPCO KDN** (2026.05~) : IT Support Intern
-- **FestiCompany** (2026.03~2026.07) : Developed and maintained on-site voting and coupon book features
+- **FestiCompany** (2026.03~2026.08) : Developed and maintained on-site voting and coupon book features
 - **SSAFY 13th** (2025.01~2025.12) : Student Council Activity(CA) and completed in the top 30%
 - **Keimyung University** (2019.03~2025.02) : B.S. in Computer Engineering
 - **Keimyung University K-STAR** (2024.12) : E-Area Certification
