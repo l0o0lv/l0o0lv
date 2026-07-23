@@ -40,9 +40,6 @@ Hello, I'm Donggeun Han, a developer who enjoys growing together rather than com
 - **Kyungpook National University & Keimyung University Hackathon** : <a href="https://github.com/merge-halle" target="_blank">ReviewHalrae?</a>  
   → Marketing Assistant through AI Review Quality Improvement
 
-- **LIKELION 12th Hackathon** : <a href="https://github.com/Will-you-merge-me" target="_blank">Onna</a>  
-  → Trainer Matching Platform for Fun Workouts
-
 - **Capstone Design** : <a href="https://github.com/l0o0lv/DoVote-MSA" target="_blank">DO표</a>  
   → Community Voting Application
 
@@ -128,9 +125,6 @@ Hello, I'm Donggeun Han, a developer who enjoys growing together rather than com
 
 - **경북대 계명대 공동 해커톤** : <a href="https://github.com/merge-halle" target="_blank">리뷰할래?</a>  
   → AI 리뷰 품질 개선을 통한 마케팅 도우미
-
-- **멋쟁이사자처럼 12기 해커톤** : <a href="https://github.com/Will-you-merge-me" target="_blank">온나(onna)</a>  
-  → 쉽고 재밌게 운동하자. 트레이너 매칭 플랫폼
 
 - **캡스톤디자인** : <a href="https://github.com/l0o0lv/DoVote-MSA" target="_blank">모두의 투표 - DO표</a>  
   → 주변인들에게 물어보기 애매했던 질문들을 투표를 통해 소통하는 커뮤니티
