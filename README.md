@@ -37,7 +37,7 @@ Hello, I'm Donggeun Han, a developer who enjoys growing together rather than com
 - **Surferton** : <a href="https://github.com/GongmoHub" target="_blank">GongmoHub</a>  
   → AI-based Contest Recommendation Platform
 
-- **Kyungpook National University & Keimyung University Hackathon** : <a href="https://github.com/merge-halle" target="_blank">ReviewHalrae?</a>  
+- **Venture Startup Academy Daegu-Gyeongbuk Regional Hackathon** : <a href="https://github.com/merge-halle" target="_blank">ReviewHalrae?</a>  
   → Marketing Assistant through AI Review Quality Improvement
 
 - **Capstone Design** : <a href="https://github.com/l0o0lv/DoVote-MSA" target="_blank">DO표</a>  
@@ -60,7 +60,7 @@ Hello, I'm Donggeun Han, a developer who enjoys growing together rather than com
 
 - **Venture Startup Academy** : Minister of SMEs and Startups Award <a href="https://www.kmib.co.kr/article/view.asp?arcid=0020693743" target="_blank">(News)</a>
 
-- **Kyungpook National University & Keimyung University Hackathon** : Gold Prize <a href="https://www.canva.com/design/DAGNVikok0U/VEApptjrUpDYtCZHifiF3w/view?utm_content=DAGNVikok0U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1516c7bfe0" target="_blank">(PPT)</a>
+- **Venture Startup Academy Daegu-Gyeongbuk Regional Hackathon** : Gold Prize <a href="https://www.canva.com/design/DAGNVikok0U/VEApptjrUpDYtCZHifiF3w/view?utm_content=DAGNVikok0U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1516c7bfe0" target="_blank">(PPT)</a>
 
 - **The Institute of Electronics and Information Engineers Summer Conference 2024** : Best Paper Award
 
@@ -123,7 +123,7 @@ Hello, I'm Donggeun Han, a developer who enjoys growing together rather than com
 - **서퍼톤** : <a href="https://github.com/GongmoHub" target="_blank">공모허브</a>  
   → 간단한 프로젝트 설명으로 공모전 맞춤 검색을 할 수 있는 서비스
 
-- **경북대 계명대 공동 해커톤** : <a href="https://github.com/merge-halle" target="_blank">리뷰할래?</a>  
+- **벤처스타트업 아카데미 대경권 해커톤** : <a href="https://github.com/merge-halle" target="_blank">리뷰할래?</a>  
   → AI 리뷰 품질 개선을 통한 마케팅 도우미
 
 - **캡스톤디자인** : <a href="https://github.com/l0o0lv/DoVote-MSA" target="_blank">모두의 투표 - DO표</a>  
@@ -145,7 +145,7 @@ Hello, I'm Donggeun Han, a developer who enjoys growing together rather than com
 
 - **벤처스타트업 아카데미** : 중소벤처기업부장관상 <a href="https://www.kmib.co.kr/article/view.asp?arcid=0020693743" target="_blank">(News)</a>
 
-- **경북대학교 & 계명대학교 공동 해커톤** : 금상 <a href="https://www.canva.com/design/DAGNVikok0U/VEApptjrUpDYtCZHifiF3w/view?utm_content=DAGNVikok0U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1516c7bfe0" target="_blank">(PPT)</a>
+- **벤처스타트업 아카데미 대경권 해커톤** : 금상 <a href="https://www.canva.com/design/DAGNVikok0U/VEApptjrUpDYtCZHifiF3w/view?utm_content=DAGNVikok0U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1516c7bfe0" target="_blank">(PPT)</a>
 
 - **대한전자공학회 2024 하계학술대회** : 우수논문상
 
