@@ -72,7 +72,7 @@ Hello, I'm Donggeun Han, a developer who enjoys growing together rather than com
 
 ## 📚 Papers
 
-- **IEIE Summer Conference 2024** : <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891073" target="_blank">Comparative Analysis of Programming Performance Across Large Language Models (LLMs)</a>
+- **IEIE Summer Conference 2024** : <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891073" target="_blank">Comparative Analysis of Programming Performance Across Large Language Models (DBpia Top 5%)</a>
 
 - **KICS Fall Conference 2023** : <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11667720" target="_blank">Research Trends in Blockchain-based Electronic Voting Systems</a>
 
@@ -157,7 +157,7 @@ Hello, I'm Donggeun Han, a developer who enjoys growing together rather than com
 
 ## 📚 논문  
 
-- **대한전자공학회 2024년도 하계학술대회** : <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891073" target="_blank">대규모 언어 모델(LLM)의 종류별 프로그래밍 성능 비교(우수논문상)</a>  
+- **대한전자공학회 2024년도 하계학술대회** : <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891073" target="_blank">대규모 언어 모델(LLM)의 종류별 프로그래밍 성능 비교(우수논문상, DBpia Top 5%)</a>  
 
 - **한국통신학회 2023년도 추계종합학술대회** : <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11667720" target="_blank">블록체인을 연계한 전자투표 시스템의 연구 동향</a>
 
